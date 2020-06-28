@@ -1,6 +1,6 @@
 const controller = {
     index: (req, res)=>{
-        res.send(["Z Nation", "The Society"]);
+        res.send(["Z Nation", "The Society", "Dark"]);
     }
 }
 
